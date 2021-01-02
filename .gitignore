@@ -1,0 +1,11 @@
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+
+.vscode/.ropeproject
+__pycache__
+
+# scala
+.metals 

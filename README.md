@@ -1,5 +1,7 @@
 # metadata-compiler
 
+Moved into [readme](https://github.com/computer-science-engineering/readme)
+
 1. [Overview](#overview)
 2. [Project](#project)
    1. [Project Management](#project-management)
